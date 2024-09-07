@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'Marvel';
+    src: url('../fonts/Marvel-Regular/Marvel-Regular.ttf');
+} 
+
+body {
+    font-family: 'Marvel', sans-serif;
+    background-image: url("/src/images/fundo.jpg");
+    background-size: cover;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-decoration: none;
+    font-size: 3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    color:#9e030d;
+    text-shadow: 
+    1px 1px 0 #00000095,
+    -1px -1px 0 #ffffff,
+    1px -1px 0 #00000095,
+    -1px 1px 0 #C7C6C4,
+    0px 1px 0 #00000095,
+    0px -1px 0 #C7C6C4,
+    1px 0px 0 #00000095,
+    -1px 0px 0 #C7C6C4;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+section input {
+    background-color: #e7e7e7;
+    width: 30rem;
+    border: none;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    margin-bottom: 1rem;
+    color: #9e030d;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+section button {
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 1.5rem;
+    background-color: #9e030d;
+    color: #e7e7e7;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+section button:hover {
+    background-color: #121011;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.mensagem-vazia {
+    color: #000000;
+    background: #e7e7e7;
+    opacity: 0.8;
+    border-radius: 0.6rem;
+    padding: 1rem;
+    }
+
+.resultados-pesquisa {
+    width: 36.8rem;
+    height: 46vh;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.6rem;
+}
+
+.item-resultado {
+    border: #9e030d solid 2px;
+    background: #e7e7e7;
+    border-radius: 0.6rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item-resultado h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #9e030d;
+}
+
+.item-resultado a {
+    text-decoration: none;
+    color: #9e030d;
+}
+
+.item-resultado a:hover {
+    text-decoration: underline;
+}
+
+.sinopse {
+    color: #414141;
+    font-weight: 700;
+    margin: 0.5rem 0;
+}
+
+footer {
+    background-color: #121011;
+    color: #e7e7e7;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-size: 15px;
+}
+
+footer a {
+    color: #9e030d;
+}
