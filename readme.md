@@ -1,6 +1,6 @@
 #  Marvel Play
 
-Marvel Play é uma plataforma personalizada para encontrar seus filmes e séries favoritos da Marvel. Com uma interface intuitiva e resultados de pesquisa rápidos.
+Marvel Play é uma plataforma personalizada para encontrar seus filmes e séries favoritos da Marvel, incluindo os que não fazem parte do MCU. Com uma interface intuitiva e resultados de pesquisa rápidos.
 
 ![Imagem do site](./src/images/site.png)
 
