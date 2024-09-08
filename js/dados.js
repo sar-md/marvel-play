@@ -20,7 +20,7 @@ let dados = [
     {
         titulo : "Thor (2011)",
         sinopse : "O poderoso deus nórdico Thor é banido para a Terra e aprende a ser humilde depois de perder seus poderes.",
-        link : "https://www.disneyplus.com/pt-br/movies/capitao-america-o-primeiro-vingador/6xvB6xZ4r95O",
+        link : "https://www.disneyplus.com/pt-br/movies/thor/1p4vdKzTuhzr",
         tags : ""
     },
     {
@@ -86,7 +86,7 @@ let dados = [
     },
     {
         titulo : "Homem-Aranha: De Volta ao Lar (2017)",
-        sinopse : ">Peter Parker, um adolescente, se junta aos Vingadores e aprende a ser um herói.",
+        sinopse : "Peter Parker, um adolescente, se junta aos Vingadores e aprende a ser um herói.",
         link : "https://www.netflix.com/br/title/80166369",
         tags : ""
     },
@@ -104,7 +104,7 @@ let dados = [
     },
     {
         titulo : "Vingadores: Guerra Infinita (2018)",
-        sinopse : "Thanos coleta as Joias do Infinito e elimina metade da vida no universo.",
+        sinopse : "Thanos, um vilão poderoso, quer juntar todas as Joias do Infinito para controlar o universo. Os Vingadores e seus aliados precisam impedi-lo antes que ele destrua metade da vida no universo. Uma batalha épica e emocionante!",
         link : "https://www.disneyplus.com/pt-br/movies/vingadores-guerra-do-infinito/1WEuZ7H6y39v",
         tags : ""
     },
@@ -122,7 +122,7 @@ let dados = [
     },
     {
         titulo : "Vingadores: Ultimato (2019)",
-        sinopse : "Os Vingadores viajam no tempo para reunir as Joias do Infinito e desfazer o estalo de Thanos.",
+        sinopse : "Após metade da vida no universo ser eliminada, os Vingadores sobreviventes se reúnem para encontrar uma forma de desfazer o estalo de dedos de Thanos e trazer de volta seus amigos e familiares perdidos.",
         link : "https://www.disneyplus.com/pt-br/movies/vingadores-endgame/aRbVJUb2h2Rf",
         tags : ""
     },
@@ -344,7 +344,7 @@ let dados = [
     },
     {
         titulo : "Logan (2017)",
-        sinopse : "Em um futuro distópico, um Logan envelhecido e cansado cuida de um jovem mutante chamado Laura, enquanto é perseguido por um grupo de soldados geneticamente modificados. Este filme é uma história sombria e emocionante que explora a mortalidade de um dos personagens mais icônicos da Marvel.",
+        sinopse : "Em um futuro distópico, um Logan envelhecido e cansado cuida de uma jovem mutante chamada Laura, enquanto é perseguido por um grupo de soldados geneticamente modificados. Este filme é uma história sombria e emocionante que explora a mortalidade de um dos personagens mais icônicos da Marvel.",
         link : "https://www.disneyplus.com/pt-br/movies/logan/4BPdGjuoQAvT",
         tags : "wolverine"
     },
@@ -367,7 +367,7 @@ let dados = [
         tags : ""
     },
     {
-        titulo : "Blade II (2002)",
+        titulo : "Blade  I I (2002)",
         sinopse : "Blade se une a um grupo de vampiros rebeldes para combater uma nova ameaça híbrida que ameaça tanto vampiros quanto humanos.",
         link : "https://www.primevideo.com/dp/amzn1.dv.gti.b6ac5b7c-91ac-b299-cbba-1d3b237eaf90?autoplay=0&ref_=atv_cf_strg_wb",
         tags : ""
@@ -458,7 +458,7 @@ let dados = [
     },
     {
         titulo : "X-Men: Dias de um Futuro Esquecido (2014)",
-        sinopse : ">Os X-Men viajam no tempo para impedir um futuro sombrio onde os mutantes são caçados e exterminados.",
+        sinopse : "Os X-Men viajam no tempo para impedir um futuro sombrio onde os mutantes são caçados e exterminados.",
         link : "https://www.disneyplus.com/pt-br/movies/x-men-dias-de-um-futuro-esquecido/12X4W0gKaZr4",
         tags : "xmen"
     },
