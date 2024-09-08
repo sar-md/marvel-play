@@ -78,7 +78,7 @@ section button:hover {
 
 .resultados-pesquisa {
     width: 36.8rem;
-    height: 46vh;
+    height: 40.1vh;
     overflow-y: auto;
     margin-top: 1rem;
     padding: 1rem;
@@ -124,8 +124,10 @@ footer {
     position: absolute;
     bottom: 0;
     font-size: 15px;
+    opacity: 95%;
 }
 
 footer a {
     color: #9e030d;
+    letter-spacing: 15px;
 }
